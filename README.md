@@ -7,3 +7,4 @@ If you want to learn more, this is the link for the tutorial
 
 - [x] Return the name coin: Carlos Kvasir Coin 
 - [x] Add Symbol, decimals, supply.
+- [x] Add constructor with params.
